@@ -1,0 +1,8 @@
+{
+ "type":"banner",
+ "title":"Usa Twitter?",
+ "description":"Que tal seguir a conta do desenvolvedor mais lindo do Brasil? Não custa nada ;)",
+ "button_url":"seguir",
+ "url":"https://mobile.twitter.com/ClebersonJrX",
+ "id":"twittermgp2"
+ }
