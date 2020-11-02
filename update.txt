@@ -1,6 +1,6 @@
 {
-  "version":"8.68",
-  "expire851":"125",
+  "version":"8.67",
+  "expire851":"130",
   "title":"Atualização disponível",
   "description":"A versão 8.68 está disponível e inclui correções de bugs, painel Edge na tela de conversa, modo DND visível nas configurações e uma opção para limpar a paleta de cores usadas nos temas.\n\nComo atualizar?\nToque no botão 'Atualizar' - aguarde o download do aplicativo e logo após - faça a instalação por cima.",
   "download":"http://www.mediafire.com/file/kt9rrwish8zj6lq/YxMods(8.72.1).apk/file",
